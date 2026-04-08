@@ -37,9 +37,3 @@ Material adicional que puede ser de utilidad: apuntes, papers, guías de estudio
 
 ---
 
-## ⚠️ Aviso
-
-El material de este repositorio es de carácter **educativo y personal**. No reemplaza las clases, la bibliografía oficial ni el criterio de los docentes. Siempre consultá las fuentes originales y el material oficial de la cátedra.
-
----
-

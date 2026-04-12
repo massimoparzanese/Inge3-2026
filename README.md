@@ -16,9 +16,10 @@ Este repositorio reúne material de apoyo para la cursada de **Ingeniería de So
 ```
 IS3-UNLP/
 │
-├── resumenes/          # Resúmenes teóricos por unidad o tema
-├── practicas/          # Prácticas resueltas
-└── documentos/         # Material complementario, papers, apuntes varios
+├── Resumen          # Resúmen teórico de la materia
+├── TPs-resueltos/          # Prácticas resueltas
+├── TPs/          # Prácticas
+└── documentos/         # Material complementario, papers, apuntes varios (en caso de existir)
 ```
 
 ---
@@ -35,6 +36,4 @@ Resoluciones de ejercicios y prácticas de la cursada.
 Material adicional que puede ser de utilidad: apuntes, papers, guías de estudio, etc.
 
 ---
-
-
 
